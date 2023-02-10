@@ -5,12 +5,15 @@ on:
     types:
       - opened
 
+env:
+  ADD_TO_PROJECT_VERSION: 0.4.0
+
 jobs:
   add-to-project:
     name: Add issue to project
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/add-to-project@RELEASE_VERSION
+      - uses: actions/add-to-project@$ADD_TO_PROJECT_VERSION
         with:
           # You can target a repository in a different organization
           # to the issue
