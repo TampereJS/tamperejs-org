@@ -18,7 +18,7 @@ jobs:
           # You can target a repository in a different organization
           # to the issue
           project-url: https://github.com/users/mikkotikkanen/projects/2
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.ADD_TO_PROJECT_TOKEN_TOKEN }}
           # github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
           # labeled: bug, needs-triage
           # label-operator: OR
