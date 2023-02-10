@@ -10,6 +10,9 @@ assignees: ''
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
+**What is expected to change?**
+Clear description of what is expected to change.
+
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
 
