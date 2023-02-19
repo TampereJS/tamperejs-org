@@ -12,7 +12,8 @@ The plan how to achieve the mission
 
 1. Set up a web tech meetup
 2. Use that to spread web tech knowledge
-3. Use that to enable new web startups
+3. Use that to enable individuals, companies & new startups
+4. Get them to share what ever they have learned
 
 ## Principles
 
