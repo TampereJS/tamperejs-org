@@ -4,16 +4,16 @@ TampereJS organization
 
 ## Mission
 
-To advance web development in Tampere-area.
+Advance web technology in Tampere-area.
 
 ## Master plan
 
-The plan how to achieve the mission
+The master plan how to achieve the mission
 
 1. Set up a web tech meetup
 2. Use that to spread web tech knowledge
-3. Use that to enable individuals, companies & new startups
-4. Get them to share what ever they have learned
+3. Use that to enable individuals, companies and **new startups**
+4. Get them to share what new they have learned
 
 And make it fun while doing all of the above.
 
@@ -27,10 +27,10 @@ And make it fun while doing all of the above.
 ## Proposing a change
 
 - Propose a change under GitHub Issues
-- Change is "accepted" for further work if
-    - It has 
-    - A mob of three or more people join the change
-    - All agree that the change would would benefit the mission in a measurable way
+- Change is accepted for further work if
+    - It has all the sections defined
+    - A mob of 3+ people join and all agree the definition
+    - All agree that the change would benefit the mission in a measurable way
 
 ## Modules
 
