@@ -22,9 +22,9 @@ Clear and undertandable way to measure the value the change when delivered.
 ## What needs to be defined for the implementation? (Definition of Ready)
 - Change should have close to zero dependencies (common requirement)
 - Anyone can understand it how they can help in 5 minutes or less (common requirement)
-- [List of change specific requirements]
+- [List of change specific required definitions]
 
-## What are the tests that that needs to pass for this change? (Definition of Done)
+## What automated tests need to pass for this change? (Definition of Done)
 Clear and understandable list of tests that need to pass in order for this change to be considered
 done.
 
