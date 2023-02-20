@@ -17,6 +17,7 @@ The plan how to achieve the mission
 
 ## Principles
 
+- Find the shortest path to the value
 - Solve the problem in 20 minutes or less and implement in few hours
 - Prefer trying things out over analyzing
 - Keep asking if this is the most optimal way to do things

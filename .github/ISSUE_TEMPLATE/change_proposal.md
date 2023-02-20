@@ -19,14 +19,10 @@ List of most important things that are required for this change to deliver value
 **What is the module affected?**
 Name of the module this change is isolated to.
 
-**What needs to be defined for implementation (Definition of Ready)?**
-
-Common to all changes:
-- Change should have close to zero dependencies
-- Anyone can understand it how they can help in 5 minutes or less
-
-Change specific:
-- [List of other requirements]
+**What needs to be defined for implementation (Definition of Ready) (Common and change specific)?**
+- Change should have close to zero dependencies (common)
+- Anyone can understand it how they can help in 5 minutes or less (common)
+- [List of change specific requirements]
 
 **What are the tests that that needs to pass for this change? (Definition of Done)**
 List of change specific tasks that need to pass in order for this change to be considered done.
