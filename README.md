@@ -15,7 +15,7 @@ The master plan how to achieve the mission
 3. Use that to enable individuals, companies and **new startups**
 4. Get them to share what new they have learned
 
-And make it fun while doing all of the above.
+Make it fun while doing all of the above.
 
 ## Principles
 
