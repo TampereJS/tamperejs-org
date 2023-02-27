@@ -19,6 +19,8 @@ Make it fun while doing all of the above.
 
 ## Principles
 
+Principles on how to get there fastest
+
 - Find the shortest path to the value
 - Solve the problem in 20 minutes or less and implement in few hours
 - Prefer trying things out over analyzing
