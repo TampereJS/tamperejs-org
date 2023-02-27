@@ -10,7 +10,7 @@ Advance web technology in Tampere-area.
 
 The master plan how to achieve the mission
 
-1. Set up a web tech meetup
+1. Set up a web tech org & regular meetups
 2. Use that to spread web tech knowledge
 3. Use that to enable individuals, companies and **new startups**
 4. Get them to share what new they have learned
