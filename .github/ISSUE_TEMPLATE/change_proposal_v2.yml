@@ -46,8 +46,7 @@ body:
     id: definition-of-done
     attributes:
       label: What (automated) tests need to pass for this change? (Definition of Done)
-      description: Clear and understandable list of tests that need to pass in order for this change to be considered
-done.
+      description: Clear and understandable list of tests that need to pass in order for this change to be considered done.
     validations:
       required: true
   - type: textarea
