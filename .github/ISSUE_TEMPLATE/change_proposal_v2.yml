@@ -1,6 +1,5 @@
 name: "Change proposal v2"
 description: "Propose an change for anything related to TampereJS"
-title: ""
 labels: ["triage"]
 body:
   - type: markdown
