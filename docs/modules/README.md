@@ -3,7 +3,9 @@
 TampereJS is split into smaller modules with clearly defined interfaces and acceptance tests, so
 that each module can be iterated individually and separately.
 
-## Module structure
+Each module has it's own directory.
+
+## The structure of an module
 
 Each module should contain following parts:
 
