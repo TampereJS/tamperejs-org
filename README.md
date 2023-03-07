@@ -16,7 +16,7 @@ The master plan how to achieve the mission
 3. Use that to enable individuals, companies and **new startups**
 4. Get them to share what new they have learned
 
-Make it fun while doing all of the above.
+Bonus: Make it fun while doing all of the above.
 
 ## Principles
 
@@ -29,11 +29,15 @@ Principles on how to get there fastest
 
 ## Proposing a change
 
+Anyone can propose a change to TampereJS
+
 - Propose a change under GitHub Issues
 - Change is accepted for further work if
     - It has all the sections defined
     - A mob of 3+ people join and all agree the definition
-    - All agree that the change would benefit the mission in a measurable way
+    - All agree that the change would serves the mission in a measurable way
+
+**Note:** The organizers have a veto rights if the change is not serving the mission
 
 ## Modules
 
