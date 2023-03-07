@@ -51,4 +51,4 @@ For example:
 - Advertising (stickers; procure, deliver)
 - Website (split into multiple tasks)
 
-Modules and their definitions can be found from [modules/](modules/)
+Modules and their definitions can be found from [docs/modules/](docs/modules/)
