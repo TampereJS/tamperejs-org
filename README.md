@@ -1,6 +1,6 @@
 # tamperejs-org
 
-TampereJS organization
+TampereJS organization repository
 
 ## Mission
 
