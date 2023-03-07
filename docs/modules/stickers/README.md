@@ -16,7 +16,9 @@ Physical stickers available at community events
 
 ## Dependencies
 
-- Visual identity -module - High resolution files of TampereJS logo
+### Visual identity -module
+
+High resolution files of TampereJS logo
 
 ## Tests
 
