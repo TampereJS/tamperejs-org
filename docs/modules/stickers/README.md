@@ -16,7 +16,7 @@ Physical stickers available at community events
 
 ## Dependencies
 
-### Visual identity -module
+### Visual identity/Logo files
 
 High resolution files of TampereJS logo
 
