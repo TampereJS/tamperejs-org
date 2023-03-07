@@ -4,7 +4,8 @@ TampereJS sticker module
 
 ## Purpose
 
-Advertising the community through people who like to decorate their things with stickers, eg. laptop
+Advertising the community so that more people would join the events and the community. Stickers
+allow people to decorate their laptops and thus spread the word of the community.
 
 ## Interfaces
 
