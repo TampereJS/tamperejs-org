@@ -18,12 +18,15 @@ for making decisions about the module
 
 ### Interfaces
 
-Any interfaces the module exposes for others to use
+Any interfaces the module exposes for others to use. Each interface should be separated with a
+subtitle so that it can be linked directly to.
 
 ### Dependencies
 
-Any interfaces other modules expose that this module depends on
+Any interfaces other modules expose that this module depends on. Each dependency should be separated
+with a subtitle so that it can be linked directly to.
 
 ### Tests
 
-Any tests that should pass in order for a change to be accepted
+Any tests that should pass in order for a change to be accepted. Each test should be separated with
+a subtitle so that it can be linked directly to.
