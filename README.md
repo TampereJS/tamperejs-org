@@ -1,6 +1,7 @@
 # tamperejs-org
 
-TampereJS organization repository
+TampereJS organization. This repository defines and controls all the resources, processes, events
+etc. that the organization has.
 
 ## Mission
 
