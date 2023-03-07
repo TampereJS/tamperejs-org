@@ -43,10 +43,12 @@ Anyone can propose a change to TampereJS
 
 The organization is split into multiple modules in order to enable independent iteration
 
+For example:
+
 - Talks
 - Sponsors
 - Organizing meetups
 - Advertising (stickers; procure, deliver)
 - Website (split into multiple tasks)
 
-
+Modules and their definitions can be found from [modules/](modules/)
