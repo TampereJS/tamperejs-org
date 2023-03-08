@@ -21,7 +21,7 @@ The master plan how to achieve the mission:
 
 Anyone can propose a change to TampereJS under Github Issues ([Click here to propose a change](https://github.com/mikkotikkanen/tamperejs-org/issues/new?assignees=&labels=triage&template=change_proposal.yml)).
 
-Anyone can comment and discuss any change proposal under the issue in Github.
+Anyone can comment and discuss any change proposal under the [Github Issues](https://github.com/mikkotikkanen/tamperejs-org/issues).
 
 **Note:** The organizers have a veto right if the change is deemed not to serve the mission.
 
