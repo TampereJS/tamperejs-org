@@ -12,7 +12,7 @@ community.
 
 ### Stickers
 
-Physical stickers available at community events
+Physical stickers available at all community events
 
 ## Dependencies
 
