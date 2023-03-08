@@ -19,11 +19,11 @@ The master plan how to achieve the mission:
 
 ## Proposing a change
 
-Anyone can propose a change to TampereJS under GitHub Issues
+Anyone can propose a change to TampereJS under GitHub Issues.
 
-Anyone can comment and discuss the change proposal under the issue in Github
+Anyone can comment and discuss any change proposal under the issue in Github.
 
-**Note:** The organizers have a veto rights if the change is deemed not to serve the mission
+**Note:** The organizers have a veto rights if the change is deemed not to serve the mission.
 
 ## Working on a change proposal
 
