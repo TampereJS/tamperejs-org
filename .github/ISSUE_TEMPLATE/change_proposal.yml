@@ -1,11 +1,11 @@
-name: "Change proposal v2"
+name: "Propose a change"
 description: "Propose an change for anything related to TampereJS"
 labels: ["triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        Fill in the form below to propose a change to TampereJS
+        Fill in the form below to propose a change to anything related to TampereJS
   - type: textarea
     id: description
     attributes:

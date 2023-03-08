@@ -1,7 +1,7 @@
-# tamperejs-org
+# TampereJS org
 
-TampereJS organization. This repository defines and controls all the resources, processes, events
-etc. that the organization has.
+This repository defines and controls all the resources, processes, events etc. that the
+organization has.
 
 ## Mission
 
@@ -14,9 +14,9 @@ The master plan how to achieve the mission
 1. Set up a web tech org & regular meetups
 2. Use that to spread web tech knowledge
 3. Use that to enable individuals, companies and **new startups**
-4. Get them to share what new they have learned
+4. Get them to share what new they have learned. Rinse, repeat.
 
-Bonus: Make it fun while doing all of the above.
+**Bonus:** Make it fun while doing all of the above.
 
 ## Principles
 
@@ -33,7 +33,7 @@ Anyone can propose a change to TampereJS
 
 - Propose a change under GitHub Issues
 - Change is accepted for further work if
-    - It has all the sections defined
+    - It has all the sections answered
     - A mob of 3+ people join and all agree the definition
     - All agree that the change would serves the mission in a measurable way
 
