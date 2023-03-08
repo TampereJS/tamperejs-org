@@ -1,15 +1,14 @@
 # TampereJS org
 
-This repository defines and controls all the resources, processes, events etc. that the community
-has.
+This repository defines and controls all the resources, processes, events etc. of TampereJS.
 
 ## Mission
 
-Advance web technology in Tampere-area.
+The mission of TampereJS is to advance web technology in Tampere-area.
 
 ## Master plan
 
-The master plan how to achieve the mission
+The master plan how to achieve the mission:
 
 1. Set up a web tech community and regular meetups
 2. Use that to spread web tech knowledge
@@ -31,11 +30,15 @@ Anyone can comment and discuss the change proposal under the issue in Github
 Work on any change proposal should be done in a group (mob)
 
 1. Form a group (mob) of 3-5 people to address the issue
-2. Make sure everyone agrees to the definition and the value it is delivering towards the mission
+2. Make sure everyone in the group agrees to the definition and the value it is delivering towards
+the mission
 3. Come up with solution in 20 minutes or less (does not include implementation), prefer doing over
 planning
 
-While doing the above, keep asking if this is the most optimal way of achieving the value described
+If the change requires implementation, work on it as a group. Document the process after each
+session to the GitHub issue.
+
+**Bonus:** While doing the above, keep asking if this is the most optimal way of achieving the value described
 by the the change proposal.
 
 ## Modules
