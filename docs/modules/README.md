@@ -3,7 +3,8 @@
 TampereJS is split into smaller modules with clearly defined interfaces and acceptance tests, so
 that each module can be iterated individually and separately without affecting others.
 
-Each module has it's own directory with README file and any other resource it might have.
+Each module has it's own directory with README file and it should be understandable in 5 minutes or
+less. Additionally, any other resources it might have should be stored in the module directory.
 
 ## The structure of an module
 
