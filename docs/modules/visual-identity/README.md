@@ -11,7 +11,7 @@ advertizing and community building.
 
 ### Logo files
 
-Logo files can be found under `files/`
+Logo files can be found under [files/](files/)
 
 - **TampereJS-logo.png** - For generic web etc. use-cases
 - **TampereJS-logo.svg** - For scalable use-cases
