@@ -1,7 +1,7 @@
 # TampereJS org
 
-This repository defines and controls all the resources, processes, events etc. that the
-organization has.
+This repository defines and controls all the resources, processes, events etc. that the community
+has.
 
 ## Mission
 
@@ -11,7 +11,7 @@ Advance web technology in Tampere-area.
 
 The master plan how to achieve the mission
 
-1. Set up a web tech organization and regular meetups
+1. Set up a web tech community and regular meetups
 2. Use that to spread web tech knowledge
 3. Use that to enable individuals, companies and **new startups**
 4. Get them to share what new they have learned. Rinse, repeat.
@@ -42,7 +42,7 @@ Anyone can propose a change to TampereJS
 
 ## Modules
 
-The organization is split into multiple modules in order to enable independent iteration
+The community is split into multiple modules in order to enable independent iteration
 
 For example:
 
