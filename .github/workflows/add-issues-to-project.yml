@@ -17,7 +17,7 @@ jobs:
         with:
           # You can target a repository in a different organization
           # to the issue
-          project-url: https://github.com/users/mikkotikkanen/projects/5
+          project-url: https://github.com/users/TampereJS/projects/1
           # https://github.com/actions/add-to-project#creating-a-pat-and-adding-it-to-your-repository
           github-token: ${{ secrets.ADD_TO_PROJECT_TOKEN_TOKEN }}
           # github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
