@@ -61,11 +61,18 @@ body:
       description: Clear and understandable list of tests that need to pass in order for this change to be considered done.
     # validations:
     #   required: true
-  - type: textarea
-    id: module-and-interfaces
+  - type: input
+    id: module
     attributes:
-      label: Which module is this change in and what other module interfaces are affected?
-      description: Name of the module this change is isolated to and any other module interfaces affected.
+      label: Which module is this change in?
+      description: Name of the module this change is isolated to.
+    # validations:
+    #   required: true
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: What other modules is this change dependent on?
+      description: List of modules and interfaces this change is dependent on.
     # validations:
     #   required: true
   - type: textarea
