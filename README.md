@@ -1,6 +1,7 @@
-# TampereJS org
+# TampereJS-org
 
-This repository defines and controls all the resources, processes, events etc. of TampereJS.
+This repository defines TampereJS community as open source and controls all the resources,
+processes, events etc.
 
 ## Mission
 
