@@ -1,4 +1,4 @@
-name: Add issues to project
+name: Add issue to project
 
 on:
   issues:
@@ -17,7 +17,7 @@ jobs:
         with:
           # You can target a repository in a different organization
           # to the issue
-          project-url: https://github.com/orgs/TampereJS/projects/1
+          project-url: https://github.com/orgs/tamperejs/projects/1
           # https://github.com/actions/add-to-project#creating-a-pat-and-adding-it-to-your-repository
           github-token: ${{ secrets.ADD_TO_PROJECT_TOKEN_TOKEN }}
           # github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
