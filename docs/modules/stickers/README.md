@@ -4,15 +4,16 @@ TampereJS advertising/brand stickers
 
 ## Purpose
 
-Purpose of the stickers is to advertise the community so that more people would join the events and
-the community. Stickers allow people to decorate their laptops and thus spread the word of the
-community.
+Purpose of the stickers is to increase the visibility of the community. Stickers allow people to
+decorate their laptops and thus bring the logo of the community with them.
 
 ## Interfaces
 
 ### Stickers
 
-Physical stickers available at all community events
+Physical stickers that are provided to the community members at all events. Sticker inventory is
+distributed to 3-5 desiginated community members to avoid single-point-of-failures where nobody has
+the stickers with them at a event.
 
 ## Dependencies
 
@@ -24,13 +25,13 @@ High resolution files of TampereJS logo
 
 ### Is the logo correct?
 
-A sticker should have the correct TampereJS logo, offered by visual identity module, in it
+A sticker should have the correct TampereJS logo
 
-### Is the logo included and clearly visible?
+### Is the logo correct and clearly visible?
 
-A sticker should have TampereJS logo included and clearly visible in it
+A sticker should have the correct TampereJS logo included and clearly visible in it
 
-### Does it stick and stay attached to a non-stationary surface?
+### Does the sticker stay attached to a non-stationary surface?
 
 A sticker should stick and stay firmly attached when applied to moving surfaces such as a laptop,
 which receives wear and tear.
